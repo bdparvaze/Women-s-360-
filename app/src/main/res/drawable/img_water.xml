@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Flat 2D Soft Lavender Background -->
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M16,8 H304 A12,12 0 0,1 316,20 V160 A12,12 0 0,1 304,172 H16 A12,12 0 0,1 4,160 V20 A12,12 0 0,1 16,8 Z" />
+
+    <!-- 8 Glasses of Water (2 rows of 4 glasses on left) -->
+    <!-- Row 1 Glasses -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M28,32 H54 L50,78 H32 Z M70,32 H96 L92,78 H74 Z M112,32 H138 L134,78 H116 Z M154,32 H180 L176,78 H158 Z" />
+    <path
+        android:fillColor="#D9F0FF"
+        android:pathData="M30,44 H52 L50,76 H32 Z M72,44 H94 L92,76 H74 Z M114,44 H136 L134,76 H116 Z M156,44 H178 L176,76 H158 Z" />
+
+    <!-- Row 2 Glasses -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M28,96 H54 L50,142 H32 Z M70,96 H96 L92,142 H74 Z M112,96 H138 L134,142 H116 Z M154,96 H180 L176,142 H158 Z" />
+    <path
+        android:fillColor="#D9F0FF"
+        android:pathData="M30,108 H52 L50,140 H32 Z M72,108 H94 L92,140 H74 Z M114,108 H136 L134,140 H116 Z M156,108 H178 L176,140 H158 Z" />
+
+    <!-- Fresh Fruits Bowl on Right -->
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M250,96 m-44,0 a44,44 0 1,0 88,0 a44,44 0 1,0 -88,0" />
+    <!-- Apple & Citrus Fruit Shapes -->
+    <path
+        android:fillColor="#D94E82"
+        android:pathData="M236,92 m-18,0 a18,18 0 1,0 36,0 a18,18 0 1,0 -36,0" />
+    <path
+        android:fillColor="#F28B50"
+        android:pathData="M266,102 m-16,0 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0" />
+    <path
+        android:fillColor="#3BA776"
+        android:pathData="M236,68 C242,60 252,64 246,72 Z" />
+</vector>

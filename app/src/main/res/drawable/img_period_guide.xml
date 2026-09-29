@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Flat 2D Soft Lavender Background -->
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M16,8 H304 A12,12 0 0,1 316,20 V160 A12,12 0 0,1 304,172 H16 A12,12 0 0,1 4,160 V20 A12,12 0 0,1 16,8 Z" />
+
+    <!-- 4 Moon Phases Row at Top -->
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M65,36 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M71,36 m-11,0 a11,11 0 1,0 22,0 a11,11 0 1,0 -22,0" />
+
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M128,36 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M192,36 m-16,0 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0" />
+
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M255,36 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M249,36 m-11,0 a11,11 0 1,0 22,0 a11,11 0 1,0 -22,0" />
+
+    <!-- Flat 2D Calendar Body -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M72,62 H248 A10,10 0 0,1 258,72 V152 A10,10 0 0,1 248,162 H72 A10,10 0 0,1 62,152 V72 A10,10 0 0,1 72,62 Z" />
+
+    <!-- Calendar Header Bar -->
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M72,62 H248 A10,10 0 0,1 258,72 V86 H62 V72 A10,10 0 0,1 72,62 Z" />
+
+    <!-- Calendar Grid Dots -->
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M96,104 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0 M136,104 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0 M216,104 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0 M96,136 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0 M136,136 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0 M176,136 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0 M216,136 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+
+    <!-- Highlighted Red/Rose Period Dot on Calendar -->
+    <path
+        android:fillColor="#D94E82"
+        android:pathData="M176,104 m-13,0 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0" />
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M176,104 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+</vector>

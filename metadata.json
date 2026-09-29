@@ -1,0 +1,6 @@
+{
+  "name": "FemCare 360",
+  "description": "Soft Care Guide & Feminine Wellness Companion with 7 Modules and 5 Languages",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

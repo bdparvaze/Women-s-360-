@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Soft Flat 2D Background Card -->
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M16,8 H304 A12,12 0 0,1 316,20 V160 A12,12 0 0,1 304,172 H16 A12,12 0 0,1 4,160 V20 A12,12 0 0,1 16,8 Z" />
+
+    <!-- Decorative Flat Pink Circle -->
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M160,92 m-70,0 a70,70 0 1,0 140,0 a70,70 0 1,0 -140,0" />
+
+    <!-- Girl Head & Hair (Flat 2D Modest Illustration) -->
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M138,44 C138,26 182,26 182,44 C182,58 186,68 186,68 H134 C134,68 138,58 138,44 Z" />
+    <path
+        android:fillColor="#FFE5D4"
+        android:pathData="M160,46 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+
+    <!-- Modest T-Shirt / Salwar Top -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M120,68 L136,62 H184 L200,68 L208,96 L192,102 L190,158 H130 L128,102 L112,96 Z" />
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M136,62 Q160,80 184,62 L188,74 Q160,92 132,74 Z" />
+
+    <!-- Full Bust Measuring Tape (Over Fullest Part of Chest over T-shirt) -->
+    <path
+        android:fillColor="#8E5CE6"
+        android:pathData="M124,88 H196 V98 H124 Z" />
+    <path
+        android:strokeColor="#FFF9F5"
+        android:strokeWidth="2"
+        android:pathData="M136,88 V94 M148,88 V96 M160,88 V94 M172,88 V96 M184,88 V94" />
+
+    <!-- Left & Right Arrows pointing to Fullest Part Tape -->
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M78,91 H114 V95 H78 Z M114,86 L124,93 L114,100 Z" />
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M242,91 H206 V95 H242 Z M206,86 L196,93 L206,100 Z" />
+
+    <!-- Step 2 Badge Circle -->
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M46,42 m-18,0 a18,18 0 1,0 36,0 a18,18 0 1,0 -36,0" />
+    <path
+        android:strokeColor="#FFF9F5"
+        android:strokeWidth="3"
+        android:pathData="M40,36 C40,32 52,32 52,38 C52,43 40,46 40,50 H53" />
+</vector>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FemCare 360</string>
+    <string name="app_tagline">Soft Care Guide &amp; Feminine Wellness Sanctuary</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_bra">Bra Fit</string>
+    <string name="nav_period">Period</string>
+    <string name="nav_care">Care</string>
+    <string name="nav_fitness">Fitness</string>
+    <string name="nav_adult">18+ Care</string>
+    <string name="nav_diet">Diet &amp; H2O</string>
+    <string name="nav_doctors">Doctors</string>
+    <string name="language_switcher_title">Choose Your Language</string>
+    <string name="hero_welcome_title">Hello, Beautiful Soul</string>
+    <string name="hero_welcome_subtitle">Your personalized Soft Care Guide &amp; cycle wellness space</string>
+    <string name="section_all_modules">7 Holistic Care Modules</string>
+    <string name="btn_back_home">Back to Hub</string>
+
+    <!-- Module 1: Bra Size Calculator & Live Location Product Finder -->
+    <string name="mod_bra_title">Soft Care Guide: Bra Size Calculator</string>
+    <string name="mod_bra_subtitle">Precision fit + Live GPS store finder</string>
+    <string name="bra_unit_inches">Inches (in)</string>
+    <string name="bra_unit_cm">Centimeters (cm)</string>
+    <string name="bra_input_underbust">Underbust Measurement</string>
+    <string name="bra_input_bust">Full Bust Measurement</string>
+    <string name="bra_btn_calculate">Calculate My Fit &amp; Save</string>
+    <string name="bra_result_title">Your Ideal Bra Size</string>
+    <string name="bra_sister_size_label">Sister Sizes: %1$s</string>
+    <string name="bra_fit_tip">Band provides 80%% of support. Straps should sit comfortably without digging in.</string>
+    <string name="bra_history_title">Saved Fit History</string>
+    <string name="bra_location_card_title">Live Location Product Finder</string>
+    <string name="bra_btn_detect_gps">Detect Live GPS Location</string>
+    <string name="bra_region_saudi">Saudi Arabia (Mecca)</string>
+    <string name="bra_region_bangladesh">Bangladesh (Dhaka)</string>
+    <string name="bra_region_global">Global Store</string>
+    <string name="bra_location_status_sa">Location: Saudi Arabia (Mecca) — Showing Amazon.sa &amp; Noon.sa</string>
+    <string name="bra_location_status_bd">Location: Bangladesh — Showing Daraz BD Official Stores</string>
+    <string name="bra_location_status_global">Location: International — Showing Global Stores</string>
+    <string name="bra_shop_amazon_sa">Shop Size %1$s on Amazon.sa</string>
+    <string name="bra_shop_noon_sa">Shop Size %1$s on Noon.sa</string>
+    <string name="bra_shop_daraz_bd">Shop Size %1$s on Daraz Bangladesh</string>
+    <string name="bra_shop_global">Shop Size %1$s Online</string>
+    <string name="bra_invalid_input">Please enter valid bust &amp; underbust measurements.</string>
+
+    <!-- Module 2: Period Tracker -->
+    <string name="mod_period_title">Soft Care Guide: Period &amp; Moon Tracker</string>
+    <string name="mod_period_subtitle">Auto cycle prediction &amp; smart notifications</string>
+    <string name="period_days_until">Days Until Next Period</string>
+    <string name="period_next_date_label">Predicted Next Period: %1$s</string>
+    <string name="period_ovulation_label">Predicted Ovulation Window: %1$s</string>
+    <string name="period_phase_label">Current Phase: %1$s</string>
+    <string name="phase_menstrual">Menstrual Rest Phase</string>
+    <string name="phase_follicular">Follicular Rising Energy</string>
+    <string name="phase_ovulation">Ovulatory Peak Glow</string>
+    <string name="phase_luteal">Luteal Self-Care Phase</string>
+    <string name="period_cycle_length_label">Cycle Length (Days): %1$d</string>
+    <string name="period_duration_label">Period Length (Days): %1$d</string>
+    <string name="period_btn_log_today">Log Period Started Today</string>
+    <string name="period_btn_log_prev_week">Log Started 7 Days Ago</string>
+    <string name="period_btn_notify">Send Smart Cycle Notification</string>
+    <string name="period_notif_title">FemCare 360 Cycle Prediction</string>
+    <string name="period_notif_body">Your next period is predicted in %1$d days (%2$s). Stay hydrated and rest well!</string>
+    <string name="period_logs_title">Logged Cycle History</string>
+    <string name="symptom_cramps">Mild Cramps</string>
+    <string name="symptom_calm">Calm &amp; Happy</string>
+    <string name="symptom_bloating">Bloating</string>
+    <string name="symptom_fatigue">Low Energy</string>
+
+    <!-- Module 3: Breast Care & Hygiene -->
+    <string name="mod_care_title">Breast Care &amp; Hygiene</string>
+    <string name="mod_care_subtitle">Evidence-based educational guide (Text Only)</string>
+    <string name="care_card1_title">1. Monthly Self-Awareness Check</string>
+    <string name="care_card1_body">Perform a gentle check 3 to 5 days after your period ends when breast tissue is least tender. Use the pads of your three middle fingers in small circular motions from the collarbone to the underarm and around the areola.</string>
+    <string name="care_card2_title">2. Daily Skin &amp; Fabric Hygiene</string>
+    <string name="care_card2_body">Cleanse the underbust fold daily with lukewarm water and mild pH-balanced cleanser. Pat completely dry before dressing and choose breathable organic cotton linings in warm climates.</string>
+    <string name="care_card3_title">3. Bra Washing &amp; Rotation Care</string>
+    <string name="care_card3_body">Wash everyday bras after 2 to 3 wears and sports bras after every workout. Rotate between at least 3 bras so elastic fibers recover for 24 hours between wears.</string>
+    <string name="care_card4_title">4. Signs to Consult a Doctor</string>
+    <string name="care_card4_body">Schedule a clinical checkup if you notice a new persistent lump, skin dimpling, nipple inversion, unusual discharge, or localized redness/warmth that does not resolve after your cycle.</string>
+
+    <!-- Module 4: Daily Fitness Routine -->
+    <string name="mod_fitness_title">Soft Care Guide: Daily Feminine Fitness</string>
+    <string name="mod_fitness_subtitle">Guided yoga, pelvic floor &amp; posture routine</string>
+    <string name="fitness_timer_ready">Active Session Timer: %1$s</string>
+    <string name="fitness_btn_start">Start Timer</string>
+    <string name="fitness_btn_pause">Pause</string>
+    <string name="fitness_btn_reset">Reset</string>
+    <string name="fitness_btn_complete">Mark Exercise Completed</string>
+    <string name="fitness_completed_count">Completed Sessions Today: %1$d</string>
+    <string name="ex_1_title">Butterfly Pelvic Flow (Baddha Konasana)</string>
+    <string name="ex_1_desc">Relieves menstrual tension, opens hip flexors, and boosts pelvic circulation. Hold for 3 minutes with slow belly breaths.</string>
+    <string name="ex_2_title">Chest &amp; Posture Pectoral Lift</string>
+    <string name="ex_2_desc">Strengthens pectoral muscles supporting breast tissue and relieves upper back strain. 3 sets of 15 slow repetitions.</string>
+    <string name="ex_3_title">Rhythmic Kegel Core Strengthening</string>
+    <string name="ex_3_desc">Lift and hold pelvic floor muscles for 5 seconds, then relax for 5 seconds. Repeat 12 times while breathing naturally.</string>
+    <string name="ex_4_title">Cat-Cow Spinal Wave (Marjaryasana)</string>
+    <string name="ex_4_desc">Soothes lower back cramps and balances nervous system tension. 10 slow breath-synchronized rounds.</string>
+
+    <!-- Module 5: Adult Wellness (18+ Lock) -->
+    <string name="mod_adult_title">Adult Wellness (18+ Lock)</string>
+    <string name="mod_adult_subtitle">Protected educational reproductive health guide</string>
+    <string name="adult_lock_heading">18+ Age Verification &amp; Privacy Gate</string>
+    <string name="adult_lock_desc">This section contains strictly educational medical information on intimate health, pelvic wellness, and reproductive care. No explicit images are included. Confirm you are 18+ or enter PIN (1818) to unlock.</string>
+    <string name="adult_pin_label">Enter 4-Digit Privacy PIN (Default: 1818)</string>
+    <string name="adult_btn_unlock">I am 18+ • Unlock Educational Guide</string>
+    <string name="adult_btn_lock">Lock 18+ Section Now</string>
+    <string name="adult_pin_error">Please enter the valid 4-digit PIN (1818) to unlock.</string>
+    <string name="adult_topic1_title">Intimate pH &amp; Microbiome Balance</string>
+    <string name="adult_topic1_body">A healthy vaginal microbiome maintains a naturally acidic pH between 3.8 and 4.5. Avoid internal douching or scented soaps; warm water on the external vulva preserves protective lactobacilli.</string>
+    <string name="adult_topic2_title">UTI Prevention &amp; Hydration Protocol</string>
+    <string name="adult_topic2_body">Always wipe front to back, urinate promptly after intimacy, wear breathable cotton underwear, and maintain consistent daily water intake to flush the urinary tract naturally.</string>
+    <string name="adult_topic3_title">Cycle Hormones &amp; Emotional Intimacy</string>
+    <string name="adult_topic3_body">Estrogen peaks near ovulation supporting natural energy and mood, while progesterone rises in the luteal phase encouraging rest and warmth. Understanding these shifts reduces stress and supports communication.</string>
+    <string name="adult_topic4_title">Menstrual Cup &amp; Safe Product Usage</string>
+    <string name="adult_topic4_body">Sterilize medical-grade silicone menstrual cups in boiling water for 5 minutes between cycles. Empty every 8 to 12 hours with clean hands to prevent irritation or infection.</string>
+
+    <!-- Module 6: Auto Diet & Water Reminder -->
+    <string name="mod_diet_title">Auto Diet &amp; Water Reminder</string>
+    <string name="mod_diet_subtitle">Hydration tracker &amp; cycle-synced nutrition</string>
+    <string name="water_progress_label">%1$d ml / %2$d ml Daily Goal</string>
+    <string name="water_btn_add_glass">+250 ml Glass of Water</string>
+    <string name="water_btn_reset">Reset Today</string>
+    <string name="water_auto_reminder_toggle">Auto Water &amp; Diet Reminder Notifications</string>
+    <string name="water_btn_test_notif">Send Hydration Reminder Now</string>
+    <string name="water_notif_title">FemCare 360 Hydration &amp; Nutrition</string>
+    <string name="water_notif_body">Time for a 250ml glass of water! You are at %1$d ml today. Nourish your body with iron and magnesium.</string>
+    <string name="diet_plan_heading">Cycle-Synced Auto Diet Plan</string>
+    <string name="diet_menstrual_title">Menstrual Phase: Iron &amp; Warmth</string>
+    <string name="diet_menstrual_foods">Spinach, lentils, dates, ginger tea, dark chocolate (70%%+), and warm soups to replenish iron and soothe cramps.</string>
+    <string name="diet_follicular_title">Follicular Phase: Fresh &amp; Light</string>
+    <string name="diet_follicular_foods">Avocado, citrus fruits, oats, pumpkin seeds, probiotic yogurt, and leafy greens to support rising estrogen.</string>
+    <string name="diet_ovulatory_title">Ovulatory Phase: Antioxidant Glow</string>
+    <string name="diet_ovulatory_foods">Berries, almonds, quinoa, bell peppers, flaxseeds, and plenty of electrolyte-rich hydration.</string>
+    <string name="diet_luteal_title">Luteal Phase: Magnesium &amp; Complex Carbs</string>
+    <string name="diet_luteal_foods">Sweet potatoes, bananas, walnuts, chickpeas, chamomile tea, and sunflower seeds to curb PMS cravings.</string>
+
+    <!-- Module 7: Doctor Finder -->
+    <string name="mod_doctor_title">Specialist Doctor Finder</string>
+    <string name="mod_doctor_subtitle">Verified OB-GYN, Breast &amp; Wellness Specialists</string>
+    <string name="doc_filter_all">All Regions</string>
+    <string name="doc_filter_sa">Saudi Arabia</string>
+    <string name="doc_filter_bd">Bangladesh</string>
+    <string name="doc_btn_call">Call Clinic</string>
+    <string name="doc_btn_map">Open Map</string>
+    <string name="doc_btn_save">Bookmark</string>
+    <string name="doc_saved_badge">Saved Specialist</string>
+    <string name="doc_1_name">Dr. Amina Al-Harbi, MD</string>
+    <string name="doc_1_spec">Senior Consultant OB-GYN &amp; Maternal Care</string>
+    <string name="doc_1_loc">Al Noor Specialist Hospital Road, Mecca, Saudi Arabia</string>
+    <string name="doc_2_name">Dr. Noura Al-Qahtani, FRCOG</string>
+    <string name="doc_2_spec">Breast Health &amp; Endocrine Specialist</string>
+    <string name="doc_2_loc">King Fahad Medical City District, Riyadh / Mecca Care Network, SA</string>
+    <string name="doc_3_name">Prof. Dr. Farhana Rahman, FCPS</string>
+    <string name="doc_3_spec">Gynecologist &amp; Reproductive Wellness Specialist</string>
+    <string name="doc_3_loc">Square &amp; Dhanmondi Women Care Center, Dhaka, Bangladesh</string>
+    <string name="doc_4_name">Dr. Nusrat Jahan Chowdhury, MBBS</string>
+    <string name="doc_4_spec">Clinical Nutritionist &amp; PCOS/Breast Care Advisor</string>
+    <string name="doc_4_loc">Gulshan Pink Wellness Clinic, Dhaka, Bangladesh</string>
+
+    <!-- 2D & Real Photo Visual Guide Captions -->
+    <string name="guide_step1">1. Measure Underbust (Below Chest)</string>
+    <string name="guide_step2">2. Measure Full Bust (Over Fullest Part)</string>
+    <string name="guide_bra_combined">1. Measure Underbust, 2. Measure Over Bust</string>
+    <string name="guide_period">Enter your last period date, we will predict the next one</string>
+    <string name="guide_self_check">Check once every month</string>
+    <string name="guide_fitness">10 minutes every day</string>
+    <string name="guide_wellness">18+ Educational Information</string>
+    <string name="guide_water">8 glasses of water daily</string>
+    <string name="guide_doctor">Find a nearby female doctor</string>
+
+    <string name="disclaimer_modest">All measurements shown over fitted t-shirt for accuracy &amp; modesty</string>
+    <string name="guide_bra_title">How to Measure Your Size</string>
+    <string name="guide_bra_bust_title">Bust Measurement</string>
+    <string name="guide_bra_step1">Stand straight, wear fitted t-shirt</string>
+    <string name="guide_bra_step2">Underbust: Wrap tape just below bust, snug not tight</string>
+    <string name="guide_bra_step3">Bust: Wrap around fullest part, keep tape level</string>
+    <string name="guide_bra_step4">Keep tape parallel to floor</string>
+    <string name="guide_bra_step1_bn">সোজা হয়ে দাঁড়ান, টাইট টি-শার্ট পরুন</string>
+    <string name="guide_bra_step2_bn">নিচে মাপুন: বুকের ঠিক নিচে ফিতা ধরুন, টাইট না</string>
+    <string name="guide_bra_step3_bn">উপরে মাপুন: বুকের সবচেয়ে উঁচু জায়গায় ফিতা ধরুন</string>
+
+    <string name="guide_period_title">How to Track Your Cycle</string>
+    <string name="guide_period_step1">Enter your last period start date in the tracker below</string>
+    <string name="guide_period_step2">Get automatic next period &amp; ovulation window predictions</string>
+
+    <string name="guide_care_title">Monthly Modest Self-Check Guide</string>
+    <string name="guide_care_step1">Check once every month 3–5 days after your period ends</string>
+    <string name="guide_care_step2">Use finger pads in gentle circular motions over a fitted t-shirt</string>
+
+    <string name="guide_fitness_title">Daily 10-Minute Wellness Routine</string>
+    <string name="guide_fitness_step1">Wear comfortable modest activewear on a soft mat</string>
+    <string name="guide_fitness_step2">Practice 10 minutes of pelvic flow &amp; posture stretching daily</string>
+
+    <string name="guide_adult_title">18+ Educational Health Guide</string>
+    <string name="guide_adult_step1">Protected by PIN 1818 for complete personal privacy</string>
+    <string name="guide_adult_step2">Read evidence-based pH, hygiene &amp; reproductive care guidance</string>
+
+    <string name="guide_water_title">Daily Hydration &amp; Cycle Nutrition</string>
+    <string name="guide_water_step1">Drink 8 glasses (2250 ml) of water throughout the day</string>
+    <string name="guide_water_step2">Pair hydration with iron-rich and magnesium-rich whole foods</string>
+
+    <string name="guide_doctor_title">Consult a Verified Female Specialist</string>
+    <string name="guide_doctor_step1">Filter specialists by region (Saudi Arabia or Bangladesh)</string>
+    <string name="guide_doctor_step2">Tap Call Clinic or Open Map for direct appointment guidance</string>
+    <string name="search_modules_hint">Search modules...</string>
+    <string name="bra_header_find_fit">Find Your Perfect Fit</string>
+    <string name="bra_header_find_fit_sub">Accurate CM &amp; Inch measurement system with visual guide</string>
+    <string name="bra_shy_privacy_note">একা ঘরে, আয়নার সামনে, টি-শার্টের উপর দিয়ে মাপুন। কাউকে দেখানোর দরকার নেই।</string>
+    <string name="bra_shy_privacy_sub">Measure alone at home in front of a mirror over your t-shirt in 2 minutes.</string>
+    <string name="bra_voice_btn_listen">শুনুন কিভাবে মাপবেন</string>
+    <string name="bra_voice_btn_speaking">বলছে... (Speaking Guide)</string>
+    <string name="bra_step1_overlay">এখানে মাপুন / Measure Here - Just below bust</string>
+    <string name="bra_step2_overlay">সবচেয়ে উঁচু জায়গায় / Fullest Part - Over T-shirt</string>
+    <string name="bra_step3_overlay">সোজা রাখুন / Keep Straight</string>
+    <string name="bra_step1_title">Step 1: Underbust (নিচের মাপ)</string>
+    <string name="bra_step2_title">Step 2: Full Bust (উপরের মাপ)</string>
+    <string name="bra_step3_title">Step 3: Side Check (সোজা আছে কিনা)</string>
+    <string name="bra_step1_tts_bn">ধাপ ১, নিচের মাপ। একা ঘরে আয়নার সামনে সোজা হয়ে দাঁড়ান। টি-শার্টের উপর দিয়ে বুকের ঠিক নিচে হলুদ ফিতা ধরুন। ফিতার নিচে এক আঙুল ফাঁকা রাখুন যেন বেশি টাইট না হয়।</string>
+    <string name="bra_step2_tts_bn">ধাপ ২, উপরের মাপ। টি-শার্টের উপর দিয়ে বুকের সবচেয়ে উঁচু জায়গায় ফিতা গোল করে ধরুন। ফিতা যেন ঢিলা বা বেশি টাইট না হয়।</string>
+    <string name="bra_step3_tts_bn">ধাপ ৩, পাশ থেকে চেক করুন। আয়নায় পাশ ফিরে দেখুন ফিতাটি পিঠের দিকে উপরে উঠে গেছে কিনা। ফিতা মেঝের সাথে একদম সোজা ও সমান্তরাল রাখুন।</string>
+    <string name="mod_first_time_title">প্রথমবারের জন্য গাইড / First Time Guide</string>
+    <string name="nav_first_time">First Time</string>
+    <string name="mod_first_time_subtitle">Beginner comfort &amp; 2-minute modest measurement guide</string>
+    <string name="btn_home_first_time">প্রথমবার? First Time? - এখানে ক্লিক করুন</string>
+    <string name="mod_adult_edu_title">১৮+ Wellness Education</string>
+    <string name="nav_adult_edu">18+ Edu</string>
+    <string name="mod_adult_edu_subtitle">Clinical women\'s health education (18+ Mature)</string>
+    <string name="adult_edu_age_checkbox">আমি ১৮+ এবং এই স্বাস্থ্য তথ্য পড়তে চাই</string>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Flat 2D Soft Pink Background -->
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M16,8 H304 A12,12 0 0,1 316,20 V160 A12,12 0 0,1 304,172 H16 A12,12 0 0,1 4,160 V20 A12,12 0 0,1 16,8 Z" />
+
+    <!-- 5 Steps Self-Check Cards (With Modest T-Shirt On) -->
+    <!-- Step 1 -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M18,28 H66 V152 H18 Z" />
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M42,56 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M28,82 H56 V128 H28 Z" />
+
+    <!-- Step 2 -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M76,28 H124 V152 H76 Z" />
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M100,56 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+    <path
+        android:fillColor="#8E5CE6"
+        android:pathData="M86,82 H114 V128 H86 Z" />
+
+    <!-- Step 3 (Circular Check Motion Over Clothes) -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M134,28 H186 V152 H134 Z" />
+    <path
+        android:strokeColor="#D94E82"
+        android:strokeWidth="3"
+        android:pathData="M160,94 m-16,0 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0" />
+    <path
+        android:fillColor="#D94E82"
+        android:pathData="M160,94 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" />
+
+    <!-- Step 4 -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M196,28 H244 V152 H196 Z" />
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M220,56 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M206,82 H234 V128 H206 Z" />
+
+    <!-- Step 5 -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M254,28 H302 V152 H254 Z" />
+    <path
+        android:fillColor="#D94E82"
+        android:pathData="M278,90 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+    <path
+        android:strokeColor="#FFF9F5"
+        android:strokeWidth="3"
+        android:pathData="M271,90 L276,95 L286,84" />
+</vector>

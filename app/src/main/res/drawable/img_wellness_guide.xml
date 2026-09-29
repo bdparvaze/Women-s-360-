@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Flat 2D Soft Pink Background -->
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M16,8 H304 A12,12 0 0,1 316,20 V160 A12,12 0 0,1 304,172 H16 A12,12 0 0,1 4,160 V20 A12,12 0 0,1 16,8 Z" />
+
+    <!-- Locked Diary on Left -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M44,28 H148 A8,8 0 0,1 156,36 V144 A8,8 0 0,1 148,152 H44 A8,8 0 0,1 36,144 V36 A8,8 0 0,1 44,28 Z" />
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M36,28 H52 V152 H36 Z" />
+    <!-- Heart on Diary -->
+    <path
+        android:fillColor="#D94E82"
+        android:pathData="M100,98 L86,84 A10,10 0 1,1 100,70 A10,10 0 1,1 114,84 Z" />
+    <!-- Clasp Lock on Diary -->
+    <path
+        android:fillColor="#8E5CE6"
+        android:pathData="M144,80 H164 V100 H144 Z" />
+
+    <!-- PIN 1818 Screen on Right -->
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M184,34 H284 A10,10 0 0,1 294,44 V136 A10,10 0 0,1 284,146 H184 A10,10 0 0,1 174,136 V44 A10,10 0 0,1 184,34 Z" />
+    <!-- PIN Display Box -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M190,50 H278 V86 H190 Z" />
+    <!-- 4 Dots / 1818 Indicator -->
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M206,68 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0 M225,68 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0 M244,68 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0 M263,68 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" />
+    <!-- Unlock Button Bar -->
+    <path
+        android:fillColor="#D94E82"
+        android:pathData="M196,104 H272 V128 H196 Z" />
+</vector>

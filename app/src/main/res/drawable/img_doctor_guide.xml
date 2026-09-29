@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Flat 2D Soft Pink Background -->
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M16,8 H304 A12,12 0 0,1 316,20 V160 A12,12 0 0,1 304,172 H16 A12,12 0 0,1 4,160 V20 A12,12 0 0,1 16,8 Z" />
+
+    <!-- Female Doctor Illustration (Left-Center) -->
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M106,94 m-56,0 a56,56 0 1,0 112,0 a56,56 0 1,0 -112,0" />
+    <!-- Doctor Head & Modest Headscarf/Hair -->
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M84,56 C84,34 128,34 128,56 C128,72 132,80 132,80 H80 Z" />
+    <path
+        android:fillColor="#FFE5D4"
+        android:pathData="M106,56 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+    <!-- Doctor White Coat -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M72,78 H140 L148,148 H64 Z" />
+    <!-- Stethoscope -->
+    <path
+        android:strokeColor="#6B2D4B"
+        android:strokeWidth="3"
+        android:pathData="M92,78 V106 M120,78 V106" />
+    <path
+        android:fillColor="#D94E82"
+        android:pathData="M120,110 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" />
+
+    <!-- Map Pin Icon Badge (Top Right) -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M190,30 H288 A10,10 0 0,1 298,40 V84 A10,10 0 0,1 288,94 H190 A10,10 0 0,1 180,84 V40 A10,10 0 0,1 190,30 Z" />
+    <path
+        android:fillColor="#D94E82"
+        android:pathData="M239,42 C229,42 221,50 221,60 C221,72 239,86 239,86 C239,86 257,72 257,60 C257,50 249,42 239,42 Z" />
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M239,58 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" />
+
+    <!-- Call Button Badge (Bottom Right) -->
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M190,106 H288 A10,10 0 0,1 298,116 V142 A10,10 0 0,1 288,152 H190 A10,10 0 0,1 180,142 V116 A10,10 0 0,1 190,106 Z" />
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M239,129 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" />
+</vector>

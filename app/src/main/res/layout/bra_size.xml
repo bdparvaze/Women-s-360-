@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/bg_cream"
+    android:padding="@dimen/space_md">
+
+    <ImageView
+        android:id="@+id/iv_guide_underbust"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/guide_image_height"
+        android:src="@drawable/guide_step1_underbust_clear"
+        android:contentDescription="@string/bra_step1_overlay"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/tv_guide_step1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/space_xs"
+        android:text="@string/bra_step1_overlay"
+        android:textColor="@color/text_rose"
+        android:gravity="center" />
+
+    <ImageView
+        android:id="@+id/iv_guide_bust"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/guide_image_height"
+        android:layout_marginTop="@dimen/space_sm"
+        android:src="@drawable/guide_step2_bust_clear"
+        android:contentDescription="@string/bra_step2_overlay"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/tv_guide_step2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/space_xs"
+        android:text="@string/bra_step2_overlay"
+        android:textColor="@color/text_rose"
+        android:gravity="center" />
+
+    <ImageView
+        android:id="@+id/iv_guide_side_check"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/guide_image_height"
+        android:layout_marginTop="@dimen/space_sm"
+        android:src="@drawable/guide_step3_side_check"
+        android:contentDescription="@string/bra_step3_overlay"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/tv_guide_step3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/space_xs"
+        android:text="@string/bra_step3_overlay"
+        android:textColor="@color/text_rose"
+        android:gravity="center" />
+</LinearLayout>

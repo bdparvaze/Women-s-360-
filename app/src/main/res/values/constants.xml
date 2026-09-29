@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code_en" translatable="false">en</string>
+    <string name="lang_code_bn" translatable="false">bn</string>
+    <string name="lang_code_hi" translatable="false">hi</string>
+    <string name="lang_code_ur" translatable="false">ur</string>
+    <string name="lang_code_ar" translatable="false">ar</string>
+
+    <string name="lang_label_bn" translatable="false">বাংলা</string>
+    <string name="lang_label_en" translatable="false">English</string>
+    <string name="lang_label_hi" translatable="false">हिंदी</string>
+    <string name="lang_label_ur" translatable="false">اردو</string>
+    <string name="lang_label_ar" translatable="false">العربية</string>
+
+    <string name="url_amazon_sa_base" translatable="false">https://www.amazon.sa/s?k=women+bra+</string>
+    <string name="url_noon_sa_base" translatable="false">https://www.noon.com/saudi-en/search/?q=bra+</string>
+    <string name="url_daraz_bd_base" translatable="false">https://www.daraz.com.bd/catalog/?q=women+bra+</string>
+    <string name="url_global_bra_base" translatable="false">https://www.amazon.com/s?k=women+bra+</string>
+
+    <string name="region_code_sa" translatable="false">SA</string>
+    <string name="region_code_bd" translatable="false">BD</string>
+    <string name="region_code_global" translatable="false">GLOBAL</string>
+
+    <string name="default_adult_pin" translatable="false">1818</string>
+    <string name="notification_channel_id" translatable="false">femcare_360_wellness_channel</string>
+    <string name="database_name" translatable="false">femcare360_room.db</string>
+
+    <integer name="default_cycle_days">28</integer>
+    <integer name="default_period_length">5</integer>
+    <integer name="default_water_goal_ml">2250</integer>
+    <integer name="water_step_ml">250</integer>
+    <integer name="min_adult_age">18</integer>
+    <integer name="Notif_id_period">1001</integer>
+    <integer name="Notif_id_water">1002</integer>
+</resources>

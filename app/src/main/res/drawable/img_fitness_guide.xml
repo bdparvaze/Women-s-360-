@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Flat 2D Soft Lavender Background -->
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M16,8 H304 A12,12 0 0,1 316,20 V160 A12,12 0 0,1 304,172 H16 A12,12 0 0,1 4,160 V20 A12,12 0 0,1 16,8 Z" />
+
+    <!-- Soft Pink Sun Aura -->
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M160,92 m-62,0 a62,62 0 1,0 124,0 a62,62 0 1,0 -124,0" />
+
+    <!-- Flat Yoga Mat -->
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M64,142 H256 A6,6 0 0,1 262,148 V154 A6,6 0 0,1 256,160 H64 A6,6 0 0,1 58,154 V148 A6,6 0 0,1 64,142 Z" />
+
+    <!-- Girl in Modest Long Salwar/Tunic Stretching Arms Up -->
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M160,52 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+    <!-- Raised Stretching Arms in Long Sleeves -->
+    <path
+        android:strokeColor="#FFF9F5"
+        android:strokeWidth="10"
+        android:strokeLineCap="round"
+        android:pathData="M142,74 L118,40 M178,74 L202,40" />
+    <!-- Modest Tunic Top -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M138,68 H182 L190,126 H130 Z" />
+    <!-- Crossed Modest Salwar Trousers on Yoga Mat -->
+    <path
+        android:fillColor="#D94E82"
+        android:pathData="M110,126 H210 A10,10 0 0,1 220,136 V142 H100 V136 A10,10 0 0,1 110,126 Z" />
+</vector>

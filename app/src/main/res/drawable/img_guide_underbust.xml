@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Soft Flat 2D Background Card -->
+    <path
+        android:fillColor="#FFD6E7"
+        android:pathData="M16,8 H304 A12,12 0 0,1 316,20 V160 A12,12 0 0,1 304,172 H16 A12,12 0 0,1 4,160 V20 A12,12 0 0,1 16,8 Z" />
+
+    <!-- Decorative Flat Lavender Circle -->
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M160,92 m-70,0 a70,70 0 1,0 140,0 a70,70 0 1,0 -140,0" />
+
+    <!-- Girl Head & Hair (Flat 2D Modest Illustration) -->
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M138,44 C138,26 182,26 182,44 C182,58 186,68 186,68 H134 C134,68 138,58 138,44 Z" />
+    <path
+        android:fillColor="#FFE5D4"
+        android:pathData="M160,46 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+
+    <!-- Modest Salwar Kameez / T-Shirt Torso + Dupatta Scarf -->
+    <path
+        android:fillColor="#FFF9F5"
+        android:pathData="M120,68 L136,62 H184 L200,68 L208,96 L192,102 L190,158 H130 L128,102 L112,96 Z" />
+    <path
+        android:fillColor="#E8D7FF"
+        android:pathData="M136,62 Q160,82 184,62 L188,76 Q160,96 132,76 Z" />
+
+    <!-- Underbust Measuring Tape (Highlighted below chest over T-shirt) -->
+    <path
+        android:fillColor="#D94E82"
+        android:pathData="M126,112 H194 V122 H126 Z" />
+    <!-- Tape Tick Marks -->
+    <path
+        android:strokeColor="#FFF9F5"
+        android:strokeWidth="2"
+        android:pathData="M136,112 V118 M148,112 V120 M160,112 V118 M172,112 V120 M184,112 V118" />
+
+    <!-- Left & Right Arrows pointing to Underbust Tape -->
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M78,115 H114 V119 H78 Z M114,110 L124,117 L114,124 Z" />
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M242,115 H206 V119 H242 Z M206,110 L196,117 L206,124 Z" />
+
+    <!-- Step 1 Badge Circle -->
+    <path
+        android:fillColor="#6B2D4B"
+        android:pathData="M46,42 m-18,0 a18,18 0 1,0 36,0 a18,18 0 1,0 -36,0" />
+    <path
+        android:strokeColor="#FFF9F5"
+        android:strokeWidth="3"
+        android:pathData="M43,35 L47,32 V50 M42,50 H52" />
+</vector>
